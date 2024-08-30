@@ -13,6 +13,8 @@ El programa debe incluir las siguientes funcionalidades:
 - Mostrar todos los animales registrados, junto al numero total de animales registrados.
 - Ordenar la lista de animales por orden alfabetico.
 
+>> Reflexionar sobre el tipo de dato tanto de los parametros de las funciones, como el valor de retorno de estas.
+
 #### Despues de la implementacion
 Una vez implementadas las funcionalidades, reflexionen en como logro comunicarse su solucion, como los metodos interactuan entre si, y como estos pueden modificar estructuras dentro de su dominio y fuera de este.
 
