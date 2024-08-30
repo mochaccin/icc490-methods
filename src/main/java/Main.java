@@ -34,7 +34,7 @@ public class Main {
         Random rnum = new Random();
 
         // Corregir
-        animales.add(nombres[rnum.nextInt(nombres.length)] + " " + apellidos[0]);
+        animales.add(nombres[rnum.nextInt(nombres.length)] + " ");
 
     }
 
