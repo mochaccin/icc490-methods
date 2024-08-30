@@ -19,3 +19,4 @@ Una vez implementadas las funcionalidades, reflexionen en como logro comunicarse
 ### Recursos
 
 - [Documentacion Java ArrayList](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/ArrayList.html)
+- [Documentacion Java Collections]([https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/ArrayList.html](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Collections.html))
