@@ -15,3 +15,7 @@ El programa debe incluir las siguientes funcionalidades:
 
 #### Despues de la implementacion
 Una vez implementadas las funcionalidades, reflexionen en como logro comunicarse su solucion, como los metodos interactuan entre si, y como estos pueden modificar estructuras dentro de su dominio y fuera de este.
+
+### Recursos
+
+- (Documentacion Java ArrayList)[https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/ArrayList.html]
