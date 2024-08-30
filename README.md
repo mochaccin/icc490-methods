@@ -12,3 +12,6 @@ El programa debe incluir las siguientes funcionalidades:
 - Saber si existe cierto animal por el nombre
 - Mostrar todos los animales registrados, junto al numero total de animales registrados.
 - Ordenar la lista de animales por orden alfabetico.
+
+#### Despues de la implementacion
+Una vez implementadas las funcionalidades, reflexionen en como logro comunicarse su solucion, como los metodos interactuan entre si, y como estos pueden modificar estructuras dentro de su dominio y fuera de este.
