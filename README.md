@@ -9,5 +9,5 @@ Se les ha solicitado crear un pequeño software que permita a una veterinaria re
 El programa debe incluir las siguientes funcionalidades: 
 - Agregar un animal
 - Eliminar un animal
-- Buscar un animal por su nombre
+- Saber si existe cierto animal por el nombre
 - Mostrar todos los animales registrados, junto al numero total de animales registrados.
