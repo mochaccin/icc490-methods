@@ -11,3 +11,4 @@ El programa debe incluir las siguientes funcionalidades:
 - Eliminar un animal
 - Saber si existe cierto animal por el nombre
 - Mostrar todos los animales registrados, junto al numero total de animales registrados.
+- Ordenar la lista de animales por orden alfabetico.
